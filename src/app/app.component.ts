@@ -12,4 +12,7 @@ import { MaterialImports } from './material.import';
 })
 export class AppComponent {
   title = 'wsixbr';
+  onExternalNavigate(url: string) {
+    window.open(url);
+  }
 }
