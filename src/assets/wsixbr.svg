@@ -39,39 +39,39 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="path5-3"
-       style="fill:none;fill-opacity:1;stroke:#7d7d7d;stroke-width:10.7853;stroke-dasharray:none;stroke-opacity:1"
-       d="m 198.15615,272.65291 a 98.484027,98.484034 0 0 1 -39.48495,-78.85564 98.484027,98.484034 0 0 1 98.48404,-98.484038 98.484027,98.484034 0 0 1 98.48402,98.484038 v 0 a 98.484027,98.484034 0 0 1 -97.84917,98.48198" />
-    <ellipse
-       style="fill:none;fill-opacity:1;stroke:#dc143c;stroke-width:10.7853;stroke-dasharray:none;stroke-opacity:1"
-       id="path5-0"
-       cx="257.15524"
-       cy="390.8067"
-       rx="98.484032"
-       ry="98.484039" />
     <rect
-       style="fill:#7d7d7d;fill-opacity:1;stroke:none;stroke-width:86.715;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6"
-       width="152.50336"
-       height="10.785316"
-       x="212.20334"
-       y="17.551542" />
-    <rect
-       style="fill:#7d7d7d;fill-opacity:1;stroke:none;stroke-width:85.7046;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff3700;fill-opacity:1;stroke:none;stroke-width:85.7046;stroke-dasharray:none;stroke-opacity:1"
        id="rect6-2"
        width="148.96976"
        height="10.785316"
        x="-92.42997"
        y="204.1673"
        transform="rotate(-69.84626)" />
+    <path
+       id="path5-3"
+       style="fill:none;fill-opacity:1;stroke:#5f5f5f;stroke-width:10.7853;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.15615,272.65291 a 98.484027,98.484034 0 0 1 -39.48495,-78.85564 98.484027,98.484034 0 0 1 98.48404,-98.484038 98.484027,98.484034 0 0 1 98.48402,98.484038 v 0 a 98.484027,98.484034 0 0 1 -97.84917,98.48198" />
     <rect
-       style="fill:#dc143c;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.0220883"
+       style="fill:#ff3700;fill-opacity:1;stroke:none;stroke-width:86.715;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6"
+       width="152.50336"
+       height="10.785316"
+       x="212.20334"
+       y="17.551542" />
+    <rect
+       style="fill:#008878;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.0220883"
        id="rect6-7"
        width="11.702377"
        height="173.33929"
        x="414.20514"
        y="236.56799"
        transform="matrix(1,0,-0.5897093,0.80761559,0,0)" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#5f5f5f;stroke-width:10.7853;stroke-dasharray:none;stroke-opacity:1"
+       id="path5-0"
+       cx="257.15524"
+       cy="390.8067"
+       rx="98.484032"
+       ry="98.484039" />
   </g>
 </svg>
