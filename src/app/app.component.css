@@ -1,0 +1,12 @@
+.index-wrapper {
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0);
+}
+.brand {
+    margin: 4%;
+    font-size: 3.2em;
+}
+.lecturing {
+    margin-top: 2%;
+    font-size: 1.6em;
+}
